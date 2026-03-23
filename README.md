@@ -14,3 +14,6 @@ Projeto desenvolvido com Power BI para análise de dados.
 # Insights
 - Produto com maior receita: Bolo
 - Categoria dominante: Confeitaria
+## 📷 Dashboard
+
+![Dashboard](dashboard.png)
